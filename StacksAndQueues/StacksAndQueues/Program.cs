@@ -14,6 +14,8 @@ namespace StacksAndQueues
             SQ.Push(30);
             SQ.Push(56);
             SQ.Display();
+            SQ.IsEmpty();
+            SQ.Display();
         }
     }
 }
